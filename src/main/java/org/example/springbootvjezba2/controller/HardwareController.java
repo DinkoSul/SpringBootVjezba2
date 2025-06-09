@@ -1,5 +1,6 @@
 package org.example.springbootvjezba2.controller;
 import org.example.springbootvjezba2.dto.HardwareDTO;
+import org.example.springbootvjezba2.service.HardwareService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
